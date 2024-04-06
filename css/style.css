@@ -1,0 +1,110 @@
+html {
+    scroll-behavior: smooth;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+    margin: 0px;
+    display:flex;
+    justify-content: space-between;
+    font-family: "Sulphur Point";
+padding: 10px;
+
+
+}
+.titolo {
+    width: 1134px;
+height: 561px;
+flex-shrink: 0;
+margin-left: 300px;
+}
+header img { 
+    width: 25px; 
+    height: 25px;
+}
+
+ .titolo p { 
+font-size: 150px;
+    color: #000;
+    font-family: "Sulphur Point";
+
+   
+}
+
+main img {
+    width: 1495px;
+height: 1500px;
+}
+
+
+.titolop p {
+    color: #000;
+font-size: 32px;
+width: 50%;
+margin: auto;
+padding: 35px;
+margin-top: 150px;
+font-family: "Sulphur Point";
+}
+.paragrafo p {
+    color: rgba(0, 0, 0, 0.82);
+    font-size: 24px;
+    width: 50%;
+    margin: auto;
+    font-family: "Sulphur Point";
+}
+div.nero {
+    width: 100%;
+    background-color: #000;
+    height: 700px;
+}
+.titolop1 p {
+    background-color: #000;
+    color: #fff;
+    font-size: 32px;
+width: 50%;
+margin: auto;
+padding: 80px;
+margin-top: 250px;
+font-family: "Sulphur Point";
+}
+.paragrafo1 p {
+    background-color: #000;
+    color: #fff;
+    font-size: 24px;
+    width: 50%;
+    margin: auto;
+    font-family: "Sulphur Point";
+    margin-top: 10px;
+
+}
+footer {
+    background-color: #000;
+    color: #fff;
+    margin: 0px;
+    display:flex;
+    justify-content: space-between;
+    padding: 100px;
+    margin-top: 200px;
+    font-family: "Sulphur Point";
+
+}
+
+.contatti  {
+    margin-left: 200px;
+    margin-bottom: 210px;
+    font-family: "Sulphur Point";
+}
+.img1 img {
+    width: 50px;
+    height: 70px;
+    margin-right: 250px;
+    margin-top: 150px;
+}
+
+.img2 img {
+    width: 60px;
+    height: 80px;
+}
+
