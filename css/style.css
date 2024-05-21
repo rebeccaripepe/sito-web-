@@ -8,7 +8,7 @@ header {
     margin: 0px;
     display:flex;
     justify-content: space-between;
-    font-family: "sulphur-point", sans-serif;
+    font-family: "Sulphur Point", sans-serif;
 padding: 10px;
 
 
@@ -27,7 +27,7 @@ header img {
  .titolo p { 
 font-size: 150px;
     color: #000;
-    font-family: "sulphur-point" sans-serif;
+    font-family: "Sulphur Point" sans-serif;
 
    
 }
@@ -45,14 +45,14 @@ width: 50%;
 margin: auto;
 padding: 35px;
 margin-top: 150px;
-font-family: "sulphur-point" sans-serif;
+font-family: "Sulphur Point" sans-serif;
 }
 .paragrafo p {
     color: rgba(0, 0, 0, 0.82);
     font-size: 24px;
     width: 50%;
     margin: auto;
-    font-family: "sulphur-point" sans-serif;
+    font-family: "Sulphur Point" sans-serif;
 }
 div.nero {
     width: 100%;
@@ -67,7 +67,7 @@ width: 50%;
 margin: auto;
 padding: 80px;
 margin-top: 250px;
-font-family: "sulphur-point" sans-serif;
+font-family: "Sulphur Point" sans-serif;
 }
 .paragrafo1 p {
     background-color: #000;
@@ -75,7 +75,7 @@ font-family: "sulphur-point" sans-serif;
     font-size: 24px;
     width: 50%;
     margin: auto;
-    font-family: "sulphur-point" sans-serif;
+    font-family: "Sulphur Point" sans-serif;
     margin-top: 10px;
 
 }
@@ -87,14 +87,14 @@ footer {
     justify-content: space-between;
     padding: 100px;
     margin-top: 200px;
-    font-family: "sulphur-point" sans-serif;
+    font-family: "Sulphur Point" sans-serif;
 
 }
 
 .contatti  {
     margin-left: 200px;
     margin-bottom: 210px;
-    font-family: "sulphur-point" sans-serif;
+    font-family: "Sulphur Point" sans-serif;
 }
 .img1 img {
     width: 50px;
